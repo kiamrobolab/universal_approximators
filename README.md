@@ -65,7 +65,7 @@ To better understand the training process and the effect of orthogonalization, v
 
 ### Input Data
 
-The input data for this project consists of pairs of 2-dimensional vectors. Each pair represents a sample where the first vector is the input and the second vector is the target output. The model is trained to learn the mapping from input vectors to target vectors. ![gif](https://github.com/kiamrobolab/neural_approximation/IMG_20240628_230302_739.gif).
+The input data for this project consists of pairs of 2-dimensional vectors. Each pair represents a sample where the first vector is the input and the second vector is the target output. The model is trained to learn the mapping from input vectors to target vectors.  ![](https://github.com/kiamrobolab/neural_approximation/grab/blob/master/IMG_20240628_230302_739.gif).
 
 ### Project Structure
 
