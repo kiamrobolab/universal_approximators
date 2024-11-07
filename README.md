@@ -68,7 +68,7 @@ To better understand the training process and the effect of orthogonalization, v
 The input data for this project consists of pairs of 2-dimensional vectors. Each pair represents a sample where the first vector is the input and the second vector is the target output. The model is trained to learn the mapping from input vectors to target vectors.  ![gif](IMG_20240628_230302_739.gif). 
 
 ### Project Structure
-
+All of this below included in Vector_analysis.ipynb:
 - **`DynamicNet.py`**: Contains the implementation of the DynamicNet model and MappingLayer.
 - **`example.py`**: An example script demonstrating how to generate data, train the model, and evaluate its performance.
 - **`requirements.txt`**: Lists all the dependencies required to run the project.
